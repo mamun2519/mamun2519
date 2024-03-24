@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Next.js server-side rendering and static site generation capabilities
 - 👯 I'm looking to collaborate on innovative projects that leverage the power of front-end technologies to create compelling and user-friendly web experiences.
 ### 📫 How to reach me:
- *[<img src="https://i.ibb.co/P1LRSGV/icons8-linkedin-48.png" width="56" height="" />](https://www.linkedin.com/in/saaiful-islam)* *[<img src="https://i.ibb.co/YLRGC3g/fb.png" width="56" height="" />](https://www.facebook.com/saif.alislam.3388630)*
+ *[<img src="https://i.ibb.co/P1LRSGV/icons8-linkedin-48.png" width="56" height="" />](https://www.linkedin.com/in/juboraj-islam-mamun/)* *[<img src="https://i.ibb.co/YLRGC3g/fb.png" width="56" height="" />](https://www.facebook.com/MERNwebDeveloper.Mamun)*
 
 
 ### 🕵 My Skills: 
