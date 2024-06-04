@@ -10,7 +10,7 @@
 - 👯 I excel in backend development and thoroughly enjoy its complexities and nuances.
 - 🌱 I am a proactive learner, adept at quickly grasping new concepts, and thoroughly enjoy the process of acquiring new skills
 ### 📫 How to reach me:
- *[<img src="https://i.ibb.co/P1LRSGV/icons8-linkedin-48.png" width="56" height="" />](https://www.linkedin.com/in/juboraj-islam-mamun/)* *[<img src="https://i.ibb.co/YLRGC3g/fb.png" width="56" height="" />](https://www.facebook.com/MERNwebDeveloper.Mamun)* *[<img src="https://www.google.com/imgres?q=twitter&imgurl=https%3A%2F%2Fstore-images.s-microsoft.com%2Fimage%2Fapps.60673.9007199266244427.4d45042b-d7a5-4a83-be66-97779553b24d.5d82b7eb-9734-4b51-b65d-a0383348ab1b&imgrefurl=https%3A%2F%2Fapps.microsoft.com%2Fen-us%2Fdetail%2F9wzdncrfj140&docid=S3BE0Z92v3kurM&tbnid=J3os5zW97QHSIM&vet=12ahUKEwjb7fzJncGGAxUFxjgGHRUJD9oQM3oECBgQAA..i&w=300&h=300&hcb=2&itg=1&ved=2ahUKEwjb7fzJncGGAxUFxjgGHRUJD9oQM3oECBgQAA" width="56" height="" />](https://www.facebook.com/MERNwebDeveloper.Mamun)*
+ *[<img src="https://i.ibb.co/P1LRSGV/icons8-linkedin-48.png" width="56" height="" />](https://www.linkedin.com/in/juboraj-islam-mamun/)* *[<img src="https://i.ibb.co/YLRGC3g/fb.png" width="56" height="" />](https://www.facebook.com/MERNwebDeveloper.Mamun)* *[<img src="https://i.ibb.co/0Vf0dS0/Twitter-copy.png" width="56" height="56" />](https://www.facebook.com/MERNwebDeveloper.Mamun)*
 
 
 ### 🕵 My Skills: 
