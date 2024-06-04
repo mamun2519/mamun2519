@@ -9,6 +9,16 @@
 - 🌱 I am currently deepening my knowledge in Redis for API caching and mastering CI/CD practices.
 - 👯 I excel in backend development and thoroughly enjoy its complexities and nuances.
 - 🌱 I am a proactive learner, adept at quickly grasping new concepts, and thoroughly enjoy the process of acquiring new skills
+
+<br/>
+# Working Experience
+
+| Position      | Organization   | Employment Type | Duration           |
+| ------------- | -------------- | --------------- | ------------------ |
+| Software Engineer | OctopusX | Full Time      | April 2024 - Present |
+| Web Developer | Monster Studio | Internship      | Jan 2024 - April 2024 |
+
+<br/>
 ### 📫 How to reach me:
  *[<img src="https://i.ibb.co/P1LRSGV/icons8-linkedin-48.png" width="56" height="" />](https://www.linkedin.com/in/juboraj-islam-mamun/)* *[<img src="https://i.ibb.co/YLRGC3g/fb.png" width="56" height="" />](https://www.facebook.com/MERNwebDeveloper.Mamun)* *[<img src="https://i.ibb.co/M1s3D3F/download-stock-photos.png" width="56" height="56" />](https://x.com/mamun2519)*
 
