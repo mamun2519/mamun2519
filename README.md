@@ -10,7 +10,7 @@
 - 👯 I excel in backend development and thoroughly enjoy its complexities and nuances.
 - 🌱 I am a proactive learner, adept at quickly grasping new concepts, and thoroughly enjoy the process of acquiring new skills
 
-<br/>
+
 # Working Experience
 
 | Position      | Organization   | Employment Type | Duration           |
