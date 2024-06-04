@@ -16,7 +16,7 @@
 ### 🕵 My Skills: 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,express,nodejs,mongo,firebase,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,js,typescript,react,nextjs,firebase,supabase,nodejs,express,mongodb,docker,redis,github,redux,prisma,postgresql,figma,nest,graphql,jest,vite,vitest,c" />
   </a>
 </p>
 
