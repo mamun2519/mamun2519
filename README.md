@@ -4,11 +4,11 @@
 
 ### Here are some ideas to get you started:
 
-- 🔭 I am currently developing a user-friendly interface for the YouTube Shop Marketplace project, focusing on intuitive navigation and an enhanced user experience.
-- I am meticulously crafting the system and API design, ensuring comprehensive documentation and rigorous testing for optimal performance and reliability.
+- 🔭 I am currently developing a user-friendly interface for the YT Shop Marketplace project, focusing on intuitive navigation and an enhanced user experience.
+- 🌱 I am meticulously crafting the system and API design, ensuring comprehensive documentation and rigorous testing for optimal performance and reliability.
 - 🌱 I am currently deepening my knowledge in Redis for API caching and mastering CI/CD practices.
 - 👯 I excel in backend development and thoroughly enjoy its complexities and nuances.
-- I am a proactive learner, adept at quickly grasping new concepts and thoroughly enjoy the process of acquiring new skills
+- 🌱 I am a proactive learner, adept at quickly grasping new concepts, and thoroughly enjoy the process of acquiring new skills
 ### 📫 How to reach me:
  *[<img src="https://i.ibb.co/P1LRSGV/icons8-linkedin-48.png" width="56" height="" />](https://www.linkedin.com/in/juboraj-islam-mamun/)* *[<img src="https://i.ibb.co/YLRGC3g/fb.png" width="56" height="" />](https://www.facebook.com/MERNwebDeveloper.Mamun)*
 
