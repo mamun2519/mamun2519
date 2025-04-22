@@ -1,64 +1,93 @@
+<h1 align="center">Hi there 👋, I'm Juboraj Islam Mamun</h1>
+<h3 align="center">A Passionate Full Stack Developer from Bangladesh</h3>
 
-### Hi there, I am Juboraj Islam Mamun. A Full Stack developer from Bangladesh 👋
+---
 
+### 🧑‍💻 About Me
 
-### Here are some ideas to get you started:
+I’m a full stack developer with hands-on experience in building modern, scalable, and high-performance applications.
 
-- 🔭 I am currently developing a user-friendly interface for the YT Shop Marketplace project, focusing on intuitive navigation and an enhanced user experience.
-- 🌱 I am meticulously crafting the system and API design, ensuring comprehensive documentation and rigorous testing for optimal performance and reliability.
-- 🌱 I am currently deepening my knowledge in Redis for API caching and mastering CI/CD practices.
-- 👯 I excel in backend development and thoroughly enjoy its complexities and nuances.
-- 🌱 I am a proactive learner, adept at quickly grasping new concepts, and thoroughly enjoy the process of acquiring new skills
+- 🧠 I love solving problems through **system design** and enjoy making software that’s clean, efficient, and easy to use.
+- 📊 Skilled in **database design**, ensuring data is structured efficiently and scales with the system.
+- 👥 I have experience in **leading team members**, helping them stay productive, motivated, and focused on the goals.
+- 🚀 I've built **20+ production-level projects**, ranging from web apps to full platforms with backend systems.
+- 💼 Currently working on a **SaaS product**, where I'm involved in both frontend and backend development, and making sure everything runs smoothly.
 
+I believe in writing code that is easy to understand, maintain, and scale — and I’m always open to learning something new!
 
-### Working Experience:
+---
 
-| Position      | Organization   | Employment Type | Duration           |
-| ------------- | -------------- | --------------- | ------------------ |
-| Software Engineer | OctopusX | Full Time      | April 2024 - Present |
-| Web Developer | Monster Studio | Internship      | Jan 2024 - April 2024 |
+### 🚀 Current Focus
 
+- 🔭 Developing a **user-friendly interface** for the **YT Shop Marketplace** project.
+- 🧩 Designing robust **APIs and systems** with detailed documentation and testing.
+- 👨‍💻 Working across the full stack to build scalable and production-ready software.
+- ⚙️ Driving clean architecture, efficient backend logic, and performance optimization.
 
-### 📫 How to reach me:
- *[<img src="https://i.ibb.co/P1LRSGV/icons8-linkedin-48.png" width="56" height="" />](https://www.linkedin.com/in/juboraj-islam-mamun/)* *[<img src="https://i.ibb.co/YLRGC3g/fb.png" width="56" height="" />](https://www.facebook.com/MERNwebDeveloper.Mamun)* *[<img src="https://i.ibb.co/M1s3D3F/download-stock-photos.png" width="56" height="56" />](https://x.com/mamun2519)*
+---
 
+### 💼 Professional Experience
 
-### 🕵 My Skills: 
+| Position           | Organization     | Type         | Duration               |
+|--------------------|------------------|--------------|------------------------|
+| Software Engineer  | OctopusX         | Full Time    | April 2024 – Present   |
+| Web Developer      | Monster Studio   | Internship   | Jan 2024 – April 2024  |
+
+---
+
+### 📬 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/juboraj-islam-mamun/">
+    <img src="https://i.ibb.co/P1LRSGV/icons8-linkedin-48.png" alt="LinkedIn" width="48"/>
+  </a>
+  <a href="https://www.facebook.com/MERNwebDeveloper.Mamun">
+    <img src="https://i.ibb.co/YLRGC3g/fb.png" alt="Facebook" width="48"/>
+  </a>
+  <a href="https://x.com/mamun2519">
+    <img src="https://i.ibb.co/M1s3D3F/download-stock-photos.png" alt="X (Twitter)" width="48"/>
+  </a>
+</p>
+
+---
+
+### 🧠 Skills & Technologies
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,js,typescript,react,nextjs,firebase,supabase,nodejs,express,mongodb,docker,redis,github,redux,prisma,postgresql,figma,nest,graphql,jest,vite,vitest,c" />
   </a>
 </p>
 
+---
 
-### ✒️  My Stats: 
+### 📊 GitHub Stats & Activity
 
-
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mamun2519&theme=blueberry"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mamun2519&theme=blueberry"/></td>
+<table>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mamun2519&theme=blueberry" height="200" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mamun2519&theme=blueberry" height="200" /></td>
   </tr>
 </table>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mamun2519&theme=shadow-blue&date_format=j%20M%5B%20Y%5D&card_width=900)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mamun2519&theme=shadow-blue&date_format=j%20M%5B%20Y%5D&card_width=900" />
+</p>
 
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="300" width="300" src="https://api.githubtrends.io/user/svg/mamun2519/repos?time_range=one_year&theme=bright_lights"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="300" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mamun2519&theme=blueberry&utcOffset=8"/></td>
+<table>
+  <tr>
+    <td><img src="https://api.githubtrends.io/user/svg/mamun2519/repos?time_range=one_year&theme=bright_lights" height="300" width="300" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mamun2519&theme=blueberry&utcOffset=8" height="300" /></td>
   </tr>
 </table>
 
-<table cellpadding="0">
-  <tr style="padding: 0">
-<!--     GitHub Stats Card -->   
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=mamun2519&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamun2519&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=mamun2519&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats" height="200" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamun2519&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=html&custom_title=Top%20Languages" height="200" /></td>
   </tr>
 </table>
+
+---
+
+<p align="center">✨ Thanks for stopping by! Let's build something great together. 🚀</p>
