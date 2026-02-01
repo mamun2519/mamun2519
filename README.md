@@ -30,8 +30,9 @@ I believe in writing code that is easy to understand, maintain, and scale — an
 
 | Position           | Organization     | Type         | Duration               |
 |--------------------|------------------|--------------|------------------------|
-| Software Engineer  | OctopusX         | Full Time    | April 2024 – Present   |
-| Web Developer      | Monster Studio   | Internship   | Jan 2024 – April 2024  |
+| Software Enginner(Mid Level) | DataPollex Ltd | Full Time | Jan 2026 – Present    |
+| Full Stack Developer | Trodad Ltd     | Full Time    | Aug 2025 – Oct 2025    |
+| Software Engineer  | Monster Studio   | Full Time    | Dec 2023 – May 2025    |
 
 ---
 
