@@ -155,7 +155,7 @@ I believe good software is **simple, maintainable, scalable, and reliable in pro
 
 ### ⚙️ DevOps & Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,github,githubactions,pm2" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,github,githubactions,pm2,aws,kubernetes,ansible,terraform" />
 </p>
 
 ### 🧪 Testing & Others
