@@ -92,9 +92,8 @@ I believe in writing code that is easy to understand, maintain, and scale — an
 ---
 
  -->
-
- <h1 align="center">Hi 👋, I'm Juboraj Islam Mamun</h1>
-<h3 align="center">Full Stack Software Engineer | System-Oriented Developer | SaaS Builder</h3>
+<h1 align="center">Hi 👋, I'm Juboraj Islam Mamun</h1>
+<h3 align="center">Full Stack Software Engineer | System-Oriented Developer | SaaS & Platform Builder</h3>
 
 <p align="center">
   <strong>📍 Bangladesh</strong> &nbsp;•&nbsp;
@@ -106,24 +105,29 @@ I believe in writing code that is easy to understand, maintain, and scale — an
 ## 👨‍💻 About Me
 
 I’m a **full stack software engineer** with strong experience in building **scalable, production-grade applications**.  
-I enjoy working close to the system — from **architecture and database design** to **API development and frontend integration**.
+I enjoy working close to the system — from **architecture and database design** to **DevOps, APIs, and frontend integration**.
 
-- 🧠 Strong interest in **system design, clean architecture, and performance optimization**
-- 🗄️ Experienced in **database modeling & optimization** for scalable systems
-- 👥 Comfortable with **team collaboration and technical leadership**
-- 🚀 Built and contributed to **20+ production-level projects** (apps, tools, platforms)
-- 💼 Actively working on **SaaS products**, handling both backend and frontend responsibilities
+- 🧠 Strong focus on **system design, clean architecture, and scalability**
+- 🗄️ Experienced in **complex database design & optimization**
+- ⚙️ Hands-on with **DevOps, deployment, and server management**
+- 👥 Comfortable with **technical leadership & team collaboration**
+- 🚀 Built **20+ production projects** and **20+ free developer tools**
+- 💼 Actively involved in **SaaS and large-scale platform development**
 
-I believe good software is **simple, maintainable, and scalable** — and I’m always eager to learn, improve, and adapt.
+I believe good software is **simple, maintainable, scalable, and reliable in production**.
 
 ---
 
-## 🔭 Current Focus
+## 🔭 Current & Previous Work Highlights
 
-- 🛒 Building a **user-friendly marketplace interface** (YT Shop Marketplace)
-- ⚙️ Designing **robust APIs & backend systems** with proper documentation
-- 🧩 Working end-to-end across the **full stack**
-- 🚀 Improving **performance, scalability, and developer experience**
+- 🚀 Built and maintained **SaaS products** from scratch to production
+- 🌍 Developed a **Global Marketplace Platform** with scalable backend architecture
+- 🗄️ Designed **complex relational & NoSQL databases** for high-traffic systems
+- 🧰 Built **20+ free tools** used by developers and businesses
+- 🎓 Developed a complete **LMS (Learning Management System)** platform
+- 🛂 Built a **Visa Consultation Platform** with role-based access & workflow management
+- 🏥 Developed a **Medical Management System** (appointments, records, admin panels)
+- 🧩 Worked across **frontend, backend, DevOps, and infrastructure**
 
 ---
 
@@ -137,12 +141,26 @@ I believe good software is **simple, maintainable, and scalable** — and I’m 
 
 ---
 
-## 🧠 Tech Stack & Tools
+## 🧠 Tech Stack & Skills
 
+### 💻 Development
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,js,typescript,react,nextjs,nodejs,express,nest,graphql,mongodb,postgresql,prisma,redis,docker,firebase,supabase,redux,github,jest,vitest,vite,figma,c" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,js,typescript,react,nextjs,nodejs,express,nest,graphql,redux" />
+</p>
+
+### 🗄️ Database & Backend Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma,redis,firebase,supabase" />
+</p>
+
+### ⚙️ DevOps & Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,github,githubactions,pm2" />
+</p>
+
+### 🧪 Testing & Others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jest,vitest,vite,figma,c" />
 </p>
 
 ---
@@ -196,8 +214,7 @@ I believe good software is **simple, maintainable, and scalable** — and I’m 
 <p align="center">
   ✨ Thanks for visiting my profile!  
   <br/>
-  🚀 Always open to collaboration, learning, and building impactful software.
+  🚀 Passionate about building scalable systems & production-ready software.
 </p>
 
-
-<p align="center">✨ Thanks for stopping by! Let's build something great together. 🚀</p>
+ 
